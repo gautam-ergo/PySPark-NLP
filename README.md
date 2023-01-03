@@ -1,6 +1,6 @@
 # PYSPARK NLP MODELLING 
 
-This is a pyspark project 
+This is a pyspark nlp project 
 
 
 ## OBJECTIVE
